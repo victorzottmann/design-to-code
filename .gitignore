@@ -1,0 +1,9 @@
+/docs-reference
+.DS_Store
+
+# QR Code Component
+/qr-code-component/*.sketch
+/qr-code-component/*.fig
+/qr-code-component/*.xd
+/qr-code-component/.DS_Store
+/qr-code-component/.prettierignore
